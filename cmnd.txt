@@ -1,2 +1,6 @@
-git init:makes this file as a git repositry
-git add .:stage all files
+git init :  makes this file as a git repositry
+git add .:  stage all files before commit
+git commit -m "message" : commit All files
+git config --global user.name "User Name" : set username of git
+git config --global user.email "useremail@gmail.com" : set user email
+git log :  to see who changes the file 
