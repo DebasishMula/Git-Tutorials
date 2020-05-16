@@ -5,4 +5,8 @@ git config --global user.name "User Name" : set username of git
 git config --global user.email "useremail@gmail.com" : set user email
 git log :  to see who changes the file
 git remote show origin : to show the current origin
+git remote rm origin : to remove existing orgin
+git remote add origin : to add new orgin
+git push origin master : to push the code to the repositry
+
  
