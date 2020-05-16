@@ -3,4 +3,6 @@ git add .:  stage all files before commit
 git commit -m "message" : commit All files
 git config --global user.name "User Name" : set username of git
 git config --global user.email "useremail@gmail.com" : set user email
-git log :  to see who changes the file 
+git log :  to see who changes the file
+git remote show origin : to show the current origin
+ 
