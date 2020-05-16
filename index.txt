@@ -1,1 +1,2 @@
-This is Version 1 of My software
+This is orgin of my medical  software
+git@github.com:DebasishMula/Medical-store-software.git
