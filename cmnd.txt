@@ -1,0 +1,2 @@
+git init:makes this file as a git repositry
+git add .:stage all files
